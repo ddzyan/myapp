@@ -1,6 +1,6 @@
 {
-  "name": "mypp",
-  "version": "1.0.5",
+  "name": "myapp",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
